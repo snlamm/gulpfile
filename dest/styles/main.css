@@ -1,0 +1,7 @@
+body {
+  color: #fafafa;
+}
+
+a {
+  transition: transform 1s;
+}
